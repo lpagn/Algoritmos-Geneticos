@@ -8,6 +8,7 @@ Clonar el repositorio git
 
 ```
 git clone https://$USER@bitbucket.org/itba/sia-2020-1c-06.git
+git clone https://github.com/lpagn/Algoritmos-Geneticos
 ```
 
 Configurar en config.properties (Ir al paso de cofiguracion)
