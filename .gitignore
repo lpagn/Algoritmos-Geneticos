@@ -6,6 +6,7 @@ gosling.py
 .project
 .settings/
 ../.DS_Store
+src/resources/*
 .idea/
 TP2.iml
 .bin/
